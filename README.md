@@ -1,6 +1,6 @@
 ### Hi, I’m Maggie!
-SQL | R | Tableau | Power BI | Business Storytelling <br/>
-Contact me: [maggietsou5@gmail.com](mailto:maggietsou5@gmail.com)  
+SQL | R | Tableau | Power BI | Business Storytelling & Strategy <br/>
+💌 Contact me: [maggietsou5@gmail.com](mailto:maggietsou5@gmail.com)  
 
 ---
 
