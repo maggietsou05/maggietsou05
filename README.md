@@ -1,13 +1,5 @@
+![jksdrjls](https://github.com/user-attachments/assets/3ad9fb72-e638-4949-be67-0b07d3fc3cb4)
 
-![dfsod](https://github.com/user-attachments/assets/7316fa31-af96-4ddf-a42a-0ccfb09141dd)
-
-My name is Maggie and I’m a Master's student at Erasmus University pursuing an MSc in Data Science and Marketing Analytics.
-
-I'm a strategic thinker and creative problem-solver passionate about transforming complex data into clear, actionable insights that drive real-world impact.
-
-With a background in innovation, sustainability, and consumer research, I’ve worked across startups and global brands, leading projects that blend data analytics, strategy, and digital tools.
-
-Outside of data, I’m always planning my next backpacking adventure and love capturing everyday moments through photography and design.
 💌 Contact me: [maggietsou5@gmail.com](mailto:maggietsou5@gmail.com)  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
