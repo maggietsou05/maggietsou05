@@ -1,4 +1,5 @@
-### Hi, I’m Maggie!
+<img width="1276" alt="image" src="https://github.com/user-attachments/assets/6414f24f-a4b0-437a-b660-69adf2c2ea44" />
+
 SQL | R | Tableau | Power BI | Business Storytelling & Strategy <br/>
 💌 Contact me: [maggietsou5@gmail.com](mailto:maggietsou5@gmail.com)  
 
