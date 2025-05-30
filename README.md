@@ -15,10 +15,16 @@
 </p>
 
 <p align="center">
-  <span style="background-color:#f5f5f5; padding:10px 20px; border-radius:10px; display:inline-block;">
-    <strong></strong> Business Strategy · Data Storytelling · Market Research · Consumer Insight · Growth Analysis · Dashboarding · Experiment Design
-  </span>
+  <img src="https://img.shields.io/badge/Business%20Strategy-413D3C?style=for-the-badge&logoColor=white&labelColor=413D3C"/>
+  <img src="https://img.shields.io/badge/Digital%20Marketing-413D3C?style=for-the-badge&logoColor=white&labelColor=413D3C"/>
+  <img src="https://img.shields.io/badge/Market%20Research-413D3C?style=for-the-badge&logoColor=white&labelColor=413D3C"/>
+  <img src="https://img.shields.io/badge/Consumer%20Insight-413D3C?style=for-the-badge&logoColor=white&labelColor=413D3C"/>
+  <img src="https://img.shields.io/badge/Project%20Management-413D3C?style=for-the-badge&logoColor=white&labelColor=413D3C"/>
 </p>
+
+
+
+
 <!---
 maggietsou05/maggietsou05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
