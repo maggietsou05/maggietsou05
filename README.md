@@ -1,4 +1,5 @@
-<img width="1276" alt="image" src="https://github.com/user-attachments/assets/6414f24f-a4b0-437a-b660-69adf2c2ea44" />
+
+![dfsod](https://github.com/user-attachments/assets/7316fa31-af96-4ddf-a42a-0ccfb09141dd)
 
 My name is Maggie and I’m a Master's student at Erasmus University pursuing an MSc in Data Science and Marketing Analytics.
 
