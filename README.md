@@ -4,7 +4,7 @@ My name is Maggie and I’m a Master's student at Erasmus University pursuing an
 
 I'm a strategic thinker and creative problem-solver passionate about transforming complex data into clear, actionable insights that drive real-world impact.
 
-With a background in innovation, sustainability, and consumer research, I’ve worked across startups and global brands, leading projects that blend data analytics, strategy, and digital tools. I am currently a Venture Director at Enactus EUR, a startup incubator.
+With a background in innovation, sustainability, and consumer research, I’ve worked across startups and global brands, leading projects that blend data analytics, strategy, and digital tools.
 
 Outside of data, I’m always planning my next backpacking adventure and love capturing everyday moments through photography and design.
 💌 Contact me: [maggietsou5@gmail.com](mailto:maggietsou5@gmail.com)  
