@@ -17,10 +17,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Business%20Strategy-413D3C?style=for-the-badge&logoColor=white&labelColor=413D3C"/>
-  <img src="https://img.shields.io/badge/Digital%20Marketing-413D3C?style=for-the-badge&logoColor=white&labelColor=413D3C"/>
-  <img src="https://img.shields.io/badge/Market%20Research-413D3C?style=for-the-badge&logoColor=white&labelColor=413D3C"/>
+  <img src="https://img.shields.io/badge/AI-413D3C?style=for-the-badge&logoColor=white&labelColor=413D3C"/>
   <img src="https://img.shields.io/badge/Consumer%20Insight-413D3C?style=for-the-badge&logoColor=white&labelColor=413D3C"/>
   <img src="https://img.shields.io/badge/Project%20Management-413D3C?style=for-the-badge&logoColor=white&labelColor=413D3C"/>
+  <img src="https://img.shields.io/badge/Entrepreneurship-413D3C?style=for-the-badge&logoColor=white&labelColor=413D3C"/>
 </p>
 
 
