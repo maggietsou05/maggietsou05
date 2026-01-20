@@ -1,5 +1,4 @@
-
-![finaldfd](https://github.com/user-attachments/assets/636c5b16-f106-4078-b549-4436dc1b4304)
+<img width="1280" height="350" alt="picgirhub" src="https://github.com/user-attachments/assets/9f0d3a42-7f51-4729-bf22-6721f8956b8d" />
 
 <p align="center">
     <strong>💌 Contact me:</strong>
