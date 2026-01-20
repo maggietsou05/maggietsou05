@@ -1,4 +1,4 @@
-<img width="1280" height="350" alt="picgirhub" src="https://github.com/user-attachments/assets/9f0d3a42-7f51-4729-bf22-6721f8956b8d" />
+<img width="1280" height="350" alt="ghgjgkgh" src="https://github.com/user-attachments/assets/155e70c2-1d09-4dd6-9570-459e7ba0e598" />
 
 <p align="center">
     <strong>💌 Contact me:</strong>
